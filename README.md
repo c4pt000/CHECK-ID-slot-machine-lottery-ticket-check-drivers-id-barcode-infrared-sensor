@@ -4,6 +4,11 @@
 
 
 
+the slot machine has to check id for legal age by barcode on the back of state id
+
+and lottery machine dispensaries
+
+
 uploading this photograph should have removed the gps location without  latitude or longitudinal out of the files metadata by completely removing the metadata
 
 
