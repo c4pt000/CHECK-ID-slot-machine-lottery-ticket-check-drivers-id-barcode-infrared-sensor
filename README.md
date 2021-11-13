@@ -5,3 +5,6 @@
 
 
 uploading this photograph should have removed the gps location without  latitude or longitudinal out of the files metadata by completely removing the metadata
+
+
+since every time a mobile phone takes any picture it includes the location of where the picture was exactly taken with GPS location in the metadata
