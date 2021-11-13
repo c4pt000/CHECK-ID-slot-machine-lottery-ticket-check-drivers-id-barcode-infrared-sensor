@@ -8,3 +8,6 @@ uploading this photograph should have removed the gps location without  latitude
 
 
 since every time a mobile phone takes any picture it includes the location of where the picture was exactly taken with GPS location in the metadata
+
+
+GitHub file delete also has to remove images from the history of uploaded files
