@@ -6,10 +6,10 @@
 
 ![s1](https://raw.githubusercontent.com/c4pt000/penndot-ID-front-facing-scan-QR/main/IMG_20220109_024712987.jpg)
 ![s1](https://raw.githubusercontent.com/c4pt000/CHECK-ID-slot-machine-lottery-ticket-check-drivers-id-barcode-infrared-sensor/main/IMG_20220109_024721852_HDR.jpg)
+![s1](https://raw.githubusercontent.com/c4pt000/CHECK-ID-slot-machine-lottery-ticket-check-drivers-id-barcode-infrared-sensor/main/IMG_20220109_030048952_HDR.jpg)
 
 
 ![s1](https://github.com/c4pt000/slot-machine-lottery-ticket-check-drivers-id-barcode-infrared-sensor/blob/main/IMG_20211108_103655315_HDR.jpg)
-![s1](https://raw.githubusercontent.com/c4pt000/CHECK-ID-slot-machine-lottery-ticket-check-drivers-id-barcode-infrared-sensor/main/IMG_20220109_030048952_HDR.jpg)
 
 
 the slot machine has to check id for legal age by barcode on the back of state id
