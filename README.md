@@ -1,5 +1,10 @@
 # slot-machine-lottery-ticket-check-drivers-id-barcode-infrared-sensor
 
+01-08-2022
+
+# these are scratch off lottery machines that check for id in Colorado state lottery
+
+
 ![s1](https://github.com/c4pt000/slot-machine-lottery-ticket-check-drivers-id-barcode-infrared-sensor/blob/main/IMG_20211108_103655315_HDR.jpg)
 
 
