@@ -15,8 +15,11 @@
 
 
 ![s1](https://raw.githubusercontent.com/c4pt000/CHECK-ID-slot-machine-lottery-ticket-check-drivers-id-barcode-infrared-sensor/main/IMG_20220112_031123237.jpg)
+![s1](https://raw.githubusercontent.com/c4pt000/CHECK-ID-slot-machine-lottery-ticket-check-drivers-id-barcode-infrared-sensor/main/IMG_20220112_031117642_HDR.jpg)
 
 
+
+slot machines Philadelphia random store
 ![s1](https://github.com/c4pt000/slot-machine-lottery-ticket-check-drivers-id-barcode-infrared-sensor/blob/main/IMG_20211108_103655315_HDR.jpg)
 
 
